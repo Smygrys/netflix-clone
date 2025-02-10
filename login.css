@@ -1,0 +1,37 @@
+* {
+    font-family: 'Fredoka One',cursive ;
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url('bgn.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: black;
+}
+
+.logo {
+    color: red;
+    position: relative; left:20px;bottom:500px;
+    font-weight: bold;
+
+}
+.b{
+    width:450px;
+    height:500px;
+    background:black ;
+    position:relative; top:80px; left:740px; 
+   display:flex;
+}
+.a{
+    color:white;
+    font-size: 2em;
+    width:450px;
+    height:500px;
+    background:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)) ;
+    position:relative; top:50px; left:440px;
+    text-align:center!important;
+    }
+#email{
+    position:relative; left:500px; bottom:300px;
+}
+
+
